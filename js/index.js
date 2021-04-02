@@ -12,7 +12,7 @@ const ctx = canvas.getContext("2d");
 
 //cor da estrada
 ctx.fillStyle = "gray";
-// Retângulo sólido
+// Retângulo sólid
 //           x    y  width height
 ctx.fillRect(20, 10, 350, 610);
 
